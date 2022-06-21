@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+}
+.linha{
+    height: 6px;
+    background-color: black;
+   margin: 8px auto;
+    width: 70px;
+}
+#meucarrosel{
+    background-color: maroon;
+}
